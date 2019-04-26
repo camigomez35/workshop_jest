@@ -1,0 +1,19 @@
+{
+  "name": "workshop_jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test-dev": "jest --watch",
+    "test-coverage": "jest ---coverage",
+    "test-list": "jest --listTests",
+    "test-config": "jest --showConfig"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.7.1"
+  }
+}
